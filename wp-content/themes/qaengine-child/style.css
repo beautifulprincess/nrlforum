@@ -1,0 +1,22 @@
+/*
+Theme Name:     QAEngine Child Theme
+Theme URI:      http://www.enginetheme.com/themes/qaengine
+Description:    Child theme for QAEngine theme
+Author:         EngineThemes
+Author URI:     http://www.enginetheme.com/
+Template:       qaengine
+Version:        1.0
+*/
+
+a {
+	color: #f5a71f;
+}
+a:hover {
+	color: #f18823;
+}
+.single-head h1 {
+	color: #f5a71f;
+}
+.header-menu ul li a:hover {
+	color: #f5a71f;
+}
